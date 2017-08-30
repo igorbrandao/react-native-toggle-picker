@@ -1,5 +1,5 @@
 import React, { PropTypes } from 'react'
-import { Text, View, Image, TouchableWithoutFeedback, Animated, Picker} from 'react-native'
+import { Text, View, Image, TouchableWithoutFeedback, Animated, Picker, Platform } from 'react-native'
 
 // external libs
 import ToggleBox from 'react-native-show-hide-toggle-box'
